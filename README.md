@@ -9,5 +9,4 @@ This app demonstrates the following views and techniques:
  
  ## Screenshots
  
- ![Screenshot1](screenshots/Dice_Roller_ScreenShots_1.png)
- ![Screenshot2](screenshots/Dice_Roller_ScreenShots_1.png)
+ ![Screenshot1](screenshots/Dice_Roller_ScreenShots_1.png) ![Screenshot2](screenshots/Dice_Roller_ScreenShots_1.png)
